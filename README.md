@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kartusss
-- 👀 I’m interested in playing chess and guitar
+- Hi, I’m @kartikey
+- I’m interested in playing chess and guitar
 - 🌱 I’m currently learning C++ and web development
-- 💞️ I’m looking to collaborate on startups for work exp.
+- I’m looking to collaborate on startups for work exp.
 - 📫 How to reach me ? here is my E-mail(kartikey2003jain@gmail.com)
 
 <!---
